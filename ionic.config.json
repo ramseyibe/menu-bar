@@ -1,0 +1,8 @@
+{
+  "name": "Menu Bar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4009699b"
+}
